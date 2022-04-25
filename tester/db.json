@@ -1,0 +1,63 @@
+{
+	"users":[
+		{
+			"name": "Sayuri Hioki",
+			"email": "hiokisayuri@brq.com",
+			"cpf": "44046521864",
+			"password": "Itau02*",
+			"accountNumber": 1234567890123,
+			"balance": 2500,
+			"id": 1,
+			"bills": [
+				{
+					"name": "Conta de água",
+					"value": "456,98",
+					"date": "02/02/2022",
+					"id": 1
+				},
+				{
+					"name": "Conta de luz",
+					"value": "397,29",
+					"date": "03/02/2022",
+					"id": 2
+				},
+				{
+					"name": "Conta de internet",
+					"value": "197,41",
+					"date": "21/02/2022",
+					"id": 3
+				}
+			]
+		},
+		{
+			"name": "Felipe Melo",
+			"email": "felipemelo@itau.com",
+			"cpf": "99954802343",
+			"password": "Itau19#",
+			"accountNumber": 9876543211098,
+			"balance": 15400,
+			"id": 2,
+			"bills": [
+				{
+					"name": "Cartão de crédito",
+					"value": "527,63",
+					"date": "03/02/2022",
+					"id": 4
+				},
+				{
+					"name": "Conta de luz",
+					"value": "342,90",
+					"date": "044/02/2022",
+					"id": 5
+				},
+				{
+					"name": "Conta de água",
+					"value": "473,89",
+					"date": "05/02/2022",
+					"id": 6
+				}
+			]
+		}
+	]
+}
+
